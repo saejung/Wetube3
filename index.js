@@ -1,1 +1,1 @@
-console.log("Hi Wetube3!@@");
+console.log("Hi Wetube3!");
